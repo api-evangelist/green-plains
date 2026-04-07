@@ -1,7 +1,11 @@
 aid: green-plains
-url: https://raw.githubusercontent.com/api-evangelist/green-plains/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/green-plains/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.green-plains.com
+description: >-
+  Green Plains is a vertically integrated ethanol producer that operates ethanol plants,
+  grain handling and storage facilities, and a cattle-feeding operation.
