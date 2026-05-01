@@ -1,11 +1,25 @@
 # Green Plains
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Green Plains.
+Green Plains is a vertically integrated ethanol producer that operates ethanol plants, grain handling and storage facilities, and a cattle-feeding operation.
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented.
 
-## Properties
+## Tags
 
-- [Website](https://www.green-plains.com)
+- Biofuel
+- Ethanol
+- Agriculture
+- Energy
+
+## Common Properties
+
+| Property | URL |
+|----------|-----|
+| Website | https://www.gpreinc.com |
+| Investor Relations | https://investor.gpreinc.com |
+
+## Maintainers
+
+- **Kin Lane** - kin@apievangelist.com
