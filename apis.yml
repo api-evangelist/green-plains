@@ -17,6 +17,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/green-plains-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/green-plains-inc
   - type: Website
