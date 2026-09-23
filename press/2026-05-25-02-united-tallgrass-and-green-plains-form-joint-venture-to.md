@@ -1,7 +1,9 @@
 ---
 title: United, Tallgrass, and Green Plains Form Joint Venture to ...
 url: https://www.prnewswire.com/news-releases/united-tallgrass-and-green-plains-form-joint-venture-to-develop-new-sustainable-aviation-fuel-technology-using-ethanol-301734695.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Green Plains" press release artificial intelligence'
 position: 2
 source: serpapi-google

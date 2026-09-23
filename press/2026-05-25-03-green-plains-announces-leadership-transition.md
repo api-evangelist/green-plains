@@ -1,7 +1,9 @@
 ---
 title: Green Plains Announces Leadership Transition
 url: https://greenstocknews.com/news/nasdaq/gpre/green-plains-inc-announces-leadership-transition
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Green Plains" press release artificial intelligence'
 position: 3
 source: serpapi-google
